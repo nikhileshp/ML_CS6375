@@ -40,3 +40,12 @@ Use the below ccode to run the decision tree program
 ```
 python decision_tree.py
 ```
+
+## Info
+
+The report in the folder contains information on the solution to different parts of the assignment.
+
+## Sample Images 
+
+### Visualization of Monks-1 Dataset
+![Monk 1 - Graphviz](images/monk1-graphviz.PNG)
