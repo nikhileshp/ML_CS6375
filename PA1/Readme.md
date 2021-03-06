@@ -28,8 +28,7 @@ sudo apt-get install graphviz
   <li> Add below to PATH environment variable (mention the installed graphviz version): </li>
  </ol>
  
- >  C:\Program Files (x86)\Graphviz2.38\bin
- >  C:\Program Files (x86)\Graphviz2.38\bin\dot.exe
+ >  C:\Program Files (x86)\Graphviz2.38\bin <br> C:\Program Files (x86)\Graphviz2.38\bin\dot.exe
 
 
 ### After installing the necessary files we are ready to run the program
