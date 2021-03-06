@@ -47,8 +47,8 @@ The report in the folder contains information on the solution to different parts
 
 ## Sample Images 
 
-#### Visualization of Monks-1 Dataset
+#### Visualization of Monks-1 Decision Tree by Sklearn
 ![Monk 1 - Graphviz](images/monk1-graphviz.PNG)
 
-#### Visualization of Iris Dataset
+#### Visualization of Iris Decision Tree by Sklearn
 ![Iris - Graphviz](images/iris-graphviz.PNG)
