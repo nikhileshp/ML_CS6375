@@ -13,15 +13,17 @@ pip install -r requirements.txt
 ```
 
 
-### We also need to install Graphviz for our OS
+We also need to install Graphviz for our OS
 
-## For Linux Based OS'
+### For Linux Based OS'
+
+Run the following code on your terminal to install Graphviz
 
 ```
 sudo apt-get install graphviz
 ```
 
-## For Windows 
+### For Windows 
 
 <ol>
   <li>Download Graphviz from http://www.graphviz.org/download/ </li>
