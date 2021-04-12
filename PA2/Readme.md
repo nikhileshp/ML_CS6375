@@ -31,7 +31,7 @@ python ensemble.py
 ![Boosting Implementation](images/boosting.PNG)
 
 #### Sklearn Bagging Output
-![Sklearn Bagging]("images/sklearn bagging.PNG")
+![Sklearn Bagging](images/sklearn-bagging.PNG)
 
 #### Sklearn Adaboost Output
 ![Sklearn Adaboost](images/adaboost.PNG)
